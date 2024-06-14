@@ -100,7 +100,7 @@ body {
     height: 100vh;
     background-image: url('Main.png');
     background-repeat: no-repeat;
-    position: fixed;
+    background-attachment: fixed;
     background-size: cover;
 }
 

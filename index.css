@@ -98,10 +98,8 @@ body {
 #home {
     width: 100%;
     height: 100vh;
-    background-image: url('Main.png');
-    background-repeat: no-repeat;
+    background: url('Main.png') no-repeat center center fixed;
     background-attachment: fixed;
-    background-size: cover;
 }
 
 .navTrigger {

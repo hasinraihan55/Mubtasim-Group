@@ -102,6 +102,13 @@ body {
     background-attachment: fixed;
 }
 
+
+@media screen and (max-width:1024px) {
+    #home {
+        background-attachment: scroll;
+    }
+}
+
 .navTrigger {
     display: none;
 }
